@@ -1,0 +1,1 @@
+# Detection-of-Malaria-Parasite-from-Blood-Cell-Microscopic-image-by-Deep-learning-Transfer-learning
